@@ -1,3 +1,4 @@
 var a,b,c
 var c
-\\trtt
+//trtt
+alert(666)
