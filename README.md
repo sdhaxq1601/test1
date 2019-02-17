@@ -3,10 +3,10 @@
 ### 2
 #### 3
 ##### 4
-[x]a
-[ ]b
+[x] a
+[ ] b
 `hello`
-1.a
-2.b
-3.c
+1. a
+2. b
+3. c
 [link](http://localhost)
