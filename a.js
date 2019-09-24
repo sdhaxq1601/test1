@@ -1,4 +1,4 @@
 var a,b,c
 var c
 //trtt
-alert(666)
+console.log(Date.now())
